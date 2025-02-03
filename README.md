@@ -1,6 +1,9 @@
 # Project info
+
 Platform:   Zenva
+
 Class:      Learn Rust Programming for Beginners
+
 Section:    16, Control Flow Part 1 (Challenge)
 
 # Summary
